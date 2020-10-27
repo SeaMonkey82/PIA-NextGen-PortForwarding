@@ -138,5 +138,4 @@ trusted by default when running commands from the shell.
 <img src="imgs/pia-restart.png"></br>
 -Wait for ~15secs and check Status -> System logs to see results</br>
 <img src="imgs/pia-status.png"></br>
--All OK, port changed</br>
-<img src="imgs/pia-success.png"></br>
+
