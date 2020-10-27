@@ -36,7 +36,7 @@ System -> Advanced => tick "Enable Secure Shell"</br>
 -Give it the current port (if you have it) or non-zero value</br>
 <img src="imgs/port-alias.png"></br>
 
-**5.Create NAT rule for port-forward using the ALIAS instead of specific port/IP**</br>
+**5.Create NAT rule for port-forward using the ALIAS instead of specific port**</br>
 -Go to Firewall -> NAT</br>
 -Create new rule like bellow (some values could be different depending on your current VPN configuration)</br>
 <img src="imgs/pia-nat.png"></br>
